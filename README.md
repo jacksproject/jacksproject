@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/maxresdefaultg%20(3).jpg" />
+<img src="https://github.com/jacksproject/jacksproject/raw/main/jack.png" />
 
 </p align="center">
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahin Sharkar, aka ᴊᴀᴄᴋ ᴛʜᴇ ʀɪᴘᴘᴇʀ</h2>
