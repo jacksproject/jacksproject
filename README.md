@@ -42,11 +42,5 @@
 
 <br>
 <p align = "center">
-<!-- Begin SF Tag -->
-<div class="sf-root" data-id="3367140" data-badge="oss-users-love-us-white" style="width:144px">
-    <a href="https://sourceforge.net/projects/jack-the-ripper/" target="_blank">Jack The Ripper</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3367140';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
-<!-- End SF Tag -->
+<a href="https://sourceforge.net/projects/jack-the-ripper/files/latest/download"><img alt="Download Jack The Ripper" src="https://img.shields.io/sourceforge/dt/jack-the-ripper.svg" ></a>
 </p>
