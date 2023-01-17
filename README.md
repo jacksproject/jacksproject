@@ -38,4 +38,15 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=jacksproject&count_private=true&show_icons=true&theme=radical&line_height=27">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jacksproject&hide=css,java,html&theme=radical&&layout=compact">
-</p> 
+</p>
+
+<br>
+<p align = "center">
+<!-- Begin SF Tag -->
+<div class="sf-root" data-id="3367140" data-badge="oss-users-love-us-white" style="width:144px">
+    <a href="https://sourceforge.net/projects/jack-the-ripper/" target="_blank">Jack The Ripper</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3367140';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End SF Tag -->
+</p>
