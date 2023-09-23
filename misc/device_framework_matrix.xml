@@ -259,9 +259,6 @@
         <interface>
             <name>IDataConnection</name>
             <instance>slot1</instance>
-        </interface>
-        <interface>
-            <name>IDataConnection</name>
             <instance>slot2</instance>
         </interface>
     </hal>
@@ -315,9 +312,6 @@
         <interface>
             <name>IQcRilAudio</name>
             <instance>slot1</instance>
-        </interface>
-        <interface>
-            <name>IQcRilAudio</name>
             <instance>slot2</instance>
         </interface>
     </hal>
@@ -327,9 +321,6 @@
         <interface>
             <name>IImsRadio</name>
             <instance>imsradio0</instance>
-        </interface>
-        <interface>
-            <name>IImsRadio</name>
             <instance>imsradio1</instance>
         </interface>
     </hal>
@@ -339,9 +330,6 @@
         <interface>
             <name>IUimLpa</name>
             <instance>UimLpa0</instance>
-        </interface>
-        <interface>
-            <name>IUimLpa</name>
             <instance>UimLpa1</instance>
         </interface>
     </hal>
@@ -351,9 +339,6 @@
         <interface>
             <name>IQtiOemHook</name>
             <instance>oemhook0</instance>
-        </interface>
-        <interface>
-            <name>IQtiOemHook</name>
             <instance>oemhook1</instance>
         </interface>
     </hal>
@@ -363,9 +348,6 @@
         <interface>
             <name>IQtiRadio</name>
             <instance>slot1</instance>
-        </interface>
-        <interface>
-            <name>IQtiRadio</name>
             <instance>slot2</instance>
         </interface>
     </hal>
@@ -375,9 +357,6 @@
         <interface>
             <name>IQtiRadio</name>
             <instance>slot1</instance>
-        </interface>
-        <interface>
-            <name>IQtiRadio</name>
             <instance>slot2</instance>
         </interface>
     </hal>
@@ -387,9 +366,6 @@
         <interface>
             <name>IUim</name>
             <instance>Uim0</instance>
-        </interface>
-        <interface>
-            <name>IUim</name>
             <instance>Uim1</instance>
         </interface>
     </hal>
@@ -399,11 +375,8 @@
         <interface>
             <name>IUimRemoteServiceClient</name>
             <instance>uimRemoteClient0</instance>
-        </interface>
-        <interface>
-            <name>IUimRemoteServiceClient</name>
             <instance>uimRemoteClient1</instance>
-        </interface>        
+        </interface>       
     </hal>
     <hal format="hidl" optional="true">
         <name>vendor.qti.hardware.radio.uim_remote_server</name>
@@ -411,9 +384,6 @@
         <interface>
             <name>IUimRemoteServiceServer</name>
             <instance>uimRemoteServer0</instance>
-        </interface>
-        <interface>
-            <name>IUimRemoteServiceServer</name>
             <instance>uimRemoteServer1</instance>
         </interface>
     </hal>
